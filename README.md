@@ -22,16 +22,16 @@
 
 ###
 
-<div align="left">
+<!--  <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=Soon%20on&color=FF0000&logoColor=black&labelColor=&style=for-the-badge" height="26" alt="youtube logo"  />
   <a href="https://linkedin.com/in/luiz-gustavo-7Cheater8" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=black&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
   </a>
-</div>
+</div> -->
 
 ###
 
-<!-- <img align="right" height="120" src="https://i.imgflip.com/65efzo.gif"  /> -->
+<!-- <img align="right" height="120" src="/2.jpeg> -->
 
 
 ###
