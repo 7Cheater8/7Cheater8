@@ -31,18 +31,22 @@
 
 ###
 
-<img align="right" height="150" src="/2.jpeg"  />
+<!-- <img align="right" height="120" src="https://i.imgflip.com/65efzo.gif"  /> -->
+
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7Cheater8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="125" alt="languages graph"  />
-</div>
+<!--  <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=7Cheater8&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&custom_title=Stats%20" height="100" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7Cheater8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="100" alt="languages graph"  />
+</div> -->
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/7Cheater8/7Cheater8/output/snake.svg" alt="Snake animation" />
+
+<!--  <img src="https://raw.githubusercontent.com/7Cheater8/7Cheater8/output/snake.svg" alt="Snake animation" /> -->
+
 
 ###
