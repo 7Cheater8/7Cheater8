@@ -4,9 +4,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua logo"  />
   <img width="10" />
@@ -32,15 +29,5 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="30" alt="raspberrypi logo"  />
 </div>
-
-###
-
 <!-- <img align="right" height="120" src="/2.jpeg> -->
-
-###
-
-<br clear="both">
-
 <!--  <img src="https://raw.githubusercontent.com/7Cheater8/7Cheater8/output/snake.svg" alt="Snake animation" /> -->
-
-###
