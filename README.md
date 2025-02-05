@@ -1,7 +1,7 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=7Cheater8&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="155" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7Cheater8&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true" height="70" alt="languages graph"  />
-</div>
+</div> -->
 
 ###
 <div align="center">
