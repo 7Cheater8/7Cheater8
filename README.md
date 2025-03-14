@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=lua" height="28" alt="lua logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=c" height="28" alt="c logo"  />
@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="28" alt="gcc logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=cmake" height="28" alt="cmake logo"  />
