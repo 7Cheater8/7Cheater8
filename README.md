@@ -37,28 +37,19 @@
 <br clear="both">
 
 <div align="left">
+  <img src="https://cdn.simpleicons.org/gentoo/54487A" height="28" alt="gentoo logo"  />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="28" alt="gcc logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=cmake" height="28" alt="cmake logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="28" alt="embeddedc logo"  />
   <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="28" alt="aarch64 logo"  />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="28" alt="opengl logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=fortran" height="28" alt="fortran logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=wasm" height="28" alt="webassembly logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="28" alt="aarch64 logo"  />
 </div>
-
-<!--
-<img align="right" height="200" src=""  />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7Cheater8&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&order=1" height="170" alt="stats graph"  />
-</div>
-
-###
