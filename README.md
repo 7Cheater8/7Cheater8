@@ -1,8 +1,4 @@
-<br clear="both">
-
 <h5 align="left">| Improving ↴</h5>
-
-<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=lua" height="28" alt="lua logo"  />
@@ -30,26 +26,26 @@
   <img src="https://skillicons.dev/icons?i=openshift" height="28" alt="redhatopenshift logo"  />
 </div>
 
-<br clear="both">
-
 <h5 align="left">| Learning ↴</h5>
 
-<br clear="both">
-
 <div align="left">
-  <img src="https://cdn.simpleicons.org/gentoo/54487A" height="28" alt="gentoo logo"  />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="28" alt="gcc logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cmake" height="28" alt="cmake logo"  />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="28" alt="embeddedc logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" height="28" alt="cmake logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/llvm/llvm-original.svg" height="28" alt="llvm logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=fortran" height="28" alt="fortran logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencl/opencl-original.svg" height="28" alt="openCl logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="28" alt="aarch64 logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="28" alt="opengl logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=fortran" height="28" alt="fortran logo"  />
+  <img src="https://cdn.simpleicons.org/gentoo/54487A" height="28" alt="gentoo logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=wasm" height="28" alt="webassembly logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" height="28" alt="webassembly logo"  />
 </div>
