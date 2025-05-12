@@ -41,6 +41,6 @@
 	<a href="https://docs.ansible.com/ansible/latest/index.html"><img src="https://skillicons.dev/icons?i=ansible" height="28" alt="ansible logo"  /></a>
 	<img width="10" />
 	<a href="https://docs.redhat.com/en/documentation/openshift_container_platform/4.18/html/getting_started/index"><img src="https://skillicons.dev/icons?i=openshift" height="28" alt="redhatopenshift logo"  /></a><br>
-<strong>"learn what you need, create what you want, be low level."<strong>
+<strong>"Use what you have, learn what you need, and create what you want. —just be low level."<strong>
 </div>
 <hr class="solid">
