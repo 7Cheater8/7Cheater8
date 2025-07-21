@@ -1,4 +1,4 @@
-<h4 align="left">Favorite ones ↴</h4>
+<h4 align="left">Favorite tools ↴</h4>
 <div align="left">
   <a href="https://lua.org"><img src="https://skillicons.dev/icons?i=lua" height="28" alt="lua logo"  /></a>
   <img width="10"/>
