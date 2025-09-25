@@ -9,7 +9,7 @@
 </p>
 
 <hr>
-  <p>Sharing passion for education through my technology/mathematics research <em>Archive</em> — <a href="http://Allowchian.com">Allowchian.com</a> <br>
+  <p>Sharing passion for education through my technology/mathematics research <em>Archive</em> — <a href="http://Allowchain.com">Allowchain.com</a> <br>
     Passionate about systems and compilers, aspiring to become a good Compiler / Systems Software Engineer one day. &lt;3
   </p>
       
