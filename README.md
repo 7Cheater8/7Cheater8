@@ -26,9 +26,9 @@
 ###
 
 <div align="right">
-  <img src="https://wallpaperaccess.com/full/9407159.png" height="180" weight="180"></img>
+  <img src="https://wallpaperaccess.com/full/9407159.png" height="200" weight="200" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7Cheater8&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&order=2&custom_title=favorite%20ones" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7Cheater8&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&order=2&custom_title=favorite%20ones" height="100" />
 </div>
 
 ###
@@ -89,3 +89,5 @@
   <a href="https://github.com/ankitects/anki"><img src="https://img.shields.io/badge/Study-1D2D35?logo=anki&logoColor=white&style=for-the-badge&label=Anki&labelColor=80C2EE" height="25" /></a>
   <a href="https://github.com/WandererXII/lishogi"><img src="https://img.shields.io/badge/Game-1D2D35?logo=&logoColor=white&style=for-the-badge&label=Shogi&labelColor=80C2EE" height="25" alt="☖"/></a>
 </div>
+
+<footer align="center">©7Cheater8</footer>
